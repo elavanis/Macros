@@ -1,0 +1,14 @@
+{
+  "$type": "Macros.WindowTitleSettings, Macros",
+  "WindowTitle": "*new 1 - Notepad++",
+  "Macros": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Macros.Macro, Macros]], mscorlib",
+    "/shrug": {
+      "$type": "Macros.Macro, Macros",
+      "Trigger": "/shrug",
+      "Response": [
+        "¯\\_(ツ)_/¯"
+      ]
+    }
+  }
+}
